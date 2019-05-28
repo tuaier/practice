@@ -1,4 +1,4 @@
-package com.tuaier.gupao.pattern.abstractfactory;
+package com.tuaier.gupao.pattern.factory.abstractfactory;
 
 import com.tuaier.gupao.pattern.common.*;
 
@@ -6,19 +6,19 @@ import com.tuaier.gupao.pattern.common.*;
  * @author kangfw5
  * @since 2019-05-18
  */
-public class PythonCourseFactory implements ICourseFactory {
+public class JavaCourseFactory implements ICourseFactory {
     @Override
     public ICourse createCourse() {
-        return new PythonCourse();
+        return new JavaCourse();
     }
 
     @Override
     public INote createNote() {
-        return new PythonNote();
+        return new JavaNote();
     }
 
     @Override
     public IVideo createVideo() {
-        return new PythonVideo();
+        return new JavaVideo();
     }
 }

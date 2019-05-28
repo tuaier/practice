@@ -1,4 +1,4 @@
-package com.tuaier.gupao.pattern.abstractfactory;
+package com.tuaier.gupao.pattern.factory.abstractfactory;
 
 import com.tuaier.gupao.pattern.common.ICourse;
 import com.tuaier.gupao.pattern.common.INote;

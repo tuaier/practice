@@ -1,4 +1,4 @@
-package com.tuaier.gupao.pattern.simplefactory;
+package com.tuaier.gupao.pattern.factory.simplefactory;
 
 import com.tuaier.gupao.pattern.common.ICourse;
 import com.tuaier.gupao.pattern.common.JavaCourse;

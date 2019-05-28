@@ -1,4 +1,4 @@
-package com.tuaier.gupao.pattern.factorymethod;
+package com.tuaier.gupao.pattern.factory.factorymethod;
 
 import com.tuaier.gupao.pattern.common.ICourse;
 import com.tuaier.gupao.pattern.common.PythonCourse;
