@@ -1,6 +1,8 @@
 package com.tuaier.gupao.pattern.singleton.threadlocal;
 
 /**
+ * 伪线程安全，线程内安全，线程间不安全
+ *
  * @author kangfw5
  * @since 2019-05-28
  */
@@ -10,12 +12,7 @@ public class ThreadLocalSingleton {
 
     }
 
-    private static final ThreadLocal<ThreadLocalSingleton> THREAD_LOCAL = new ThreadLocal<ThreadLocalSingleton>() {
-        @Override
-        protected ThreadLocalSingleton initialValue() {
-            return new ThreadLocalSingleton();
-        }
-    };
+    private static final ThreadLocal<ThreadLocalSingleton> THREAD_LOCAL = ThreadLocal.withInitial(ThreadLocalSingleton::new);
 
     public static ThreadLocalSingleton getInstance() {
         return THREAD_LOCAL.get();
