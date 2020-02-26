@@ -1,7 +1,7 @@
 package com.tuaier.gupao.pattern.factory.factorymethod;
 
-import com.tuaier.gupao.pattern.common.ICourse;
-import com.tuaier.gupao.pattern.common.JavaCourse;
+import com.tuaier.gupao.pattern.factory.common.ICourse;
+import com.tuaier.gupao.pattern.factory.common.JavaCourse;
 
 /**
  * @author kangfw5

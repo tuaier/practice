@@ -1,4 +1,4 @@
-package com.tuaier.gupao.pattern.common;
+package com.tuaier.gupao.pattern.factory.common;
 
 /**
  * @author kangfw5

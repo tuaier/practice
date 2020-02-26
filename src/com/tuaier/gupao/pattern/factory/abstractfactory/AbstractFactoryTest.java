@@ -1,8 +1,8 @@
 package com.tuaier.gupao.pattern.factory.abstractfactory;
 
-import com.tuaier.gupao.pattern.common.ICourse;
-import com.tuaier.gupao.pattern.common.INote;
-import com.tuaier.gupao.pattern.common.IVideo;
+import com.tuaier.gupao.pattern.factory.common.ICourse;
+import com.tuaier.gupao.pattern.factory.common.INote;
+import com.tuaier.gupao.pattern.factory.common.IVideo;
 
 /**
  * @author kangfw5

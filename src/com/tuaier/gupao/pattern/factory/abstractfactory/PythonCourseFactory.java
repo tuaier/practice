@@ -1,6 +1,6 @@
 package com.tuaier.gupao.pattern.factory.abstractfactory;
 
-import com.tuaier.gupao.pattern.common.*;
+import com.tuaier.gupao.pattern.factory.common.*;
 
 /**
  * @author kangfw5
