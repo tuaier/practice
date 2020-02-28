@@ -11,26 +11,23 @@ import java.util.concurrent.ConcurrentHashMap;
  */
 public class ContainerSingleton {
 
-    private static Map<String, Object> ioc = new ConcurrentHashMap<>();
+    private static final Map<String, Object> IOC = new ConcurrentHashMap<>();
 
-    private ContainerSingleton() {
-
-    }
+    private ContainerSingleton() {}
 
     public static Object getBean(String className) {
-
-        synchronized (ioc) {
-            if (!ioc.containsKey(className)) {
+        synchronized (IOC) {
+            if (!IOC.containsKey(className)) {
                 Object obj = null;
                 try {
                     obj = Class.forName(className).newInstance();
-                    ioc.put(className, obj);
+                    IOC.put(className, obj);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
                 return obj;
             }
-            return ioc.get(className);
+            return IOC.get(className);
         }
     }
 }
