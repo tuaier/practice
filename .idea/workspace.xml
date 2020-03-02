@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://$PROJECT_DIR$/../../../jdk/jdk1.8/jre/lib/ext/jfxrt.jar!/javafx/util/Builder.class" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99400279-0fa5-4e67-9392-1e978a66985c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_66.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/homework/CloneByJsonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/DXSL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/DpPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/QTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/findMedianSortedArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/lengthOfLongestSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/test/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/test/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kangfw/dp/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/AbstractPaymentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/AliPayPaymentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/WeChatPaymentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/CrossborderAliPayPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/CrossborderWeChatPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/DomesticAliPayPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/DomesticWeChatPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/ICrossborderPay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/IDomesticPay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractfactory/AbstractFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractfactory/ICourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractfactory/JavaCourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractfactory/PythonCourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/ICourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/INote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/IVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/JavaCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/JavaNote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/JavaVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/PythonCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/PythonNote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/common/PythonVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/factorymethod/FactoryMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/factorymethod/ICourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/factorymethod/JavaCourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/factorymethod/PythonCourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/factoryuml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/simplefactory/CourseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/simplefactory/SimpleFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/deep/DeepCloneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/deep/JinGuBang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/deep/Monkey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/deep/QiTianDaSheng.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/simple/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/simple/ConcretePrototypeA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/simple/Prototype.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/simple/PrototypeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/work/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/work/StatementReimburseDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/work/StatementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/ExectorThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/TestFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/hungry/HungrySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/hungry/HungryStaticSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/hungry/SingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/lazy/ExectorThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/lazy/LazyDoubleCheckSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/lazy/LazyInnerClassSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/lazy/LazyInnerClassSingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/lazy/LazySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/lazy/LazySingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/register/ContainerSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/register/ContainerSingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/register/EnumSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/register/EnumSingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/register/TestVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/serialize/SerializeSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/serialize/SerializeSingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/singleton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/threadlocal/ThreadLocalSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/threadlocal/ThreadLocalSingletonTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/deep/QiTianDaSheng.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/work/StatementReimburseDetail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="980">
+              <caret line="61" column="24" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/homework/Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="52" column="32" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="52" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk1.8/jre/lib/rt.jar!/java/text/CalendarBuilder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#3738#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest</OriginalElement>
+              <nodes>
+                <node x="44.0" y="0.0">com.alibaba.fastjson.JSON</node>
+                <node x="1.0" y="186.0">com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest</node>
+                <node x="32.0" y="80.0">com.tuaier.gupao.pattern.prototype.homework.Example</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest" target="com.tuaier.gupao.pattern.prototype.homework.Example">
+                  <point x="41.5" y="-15.0" />
+                  <point x="124.5" y="135.0" />
+                  <point x="108.5" y="135.0" />
+                  <point x="25.5" y="15.0" />
+                </edge>
+                <edge source="com.tuaier.gupao.pattern.prototype.homework.Example" target="com.alibaba.fastjson.JSON">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-358.5" y="6.0" />
+              <SelectedNodes>
+                <node>com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/homework/CloneByJsonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/threadlocal/ThreadLocalSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.66/fastjson-1.2.66.jar!/com/alibaba/fastjson/JSON.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="356" column="9" selection-start-line="356" selection-start-column="9" selection-end-line="356" selection-end-column="9" />
+              <folding>
+                <element signature="e#15505#15506#0" expanded="true" />
+                <element signature="e#15552#15553#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/work/Project.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/kangfw/dp/test/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/kangfw/dp/test/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractfactory/PythonCourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractfactory/JavaCourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/kangfw/dp/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/kangfw/dp/QTest.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/TestFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/TestSonFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/IPayMode.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/AliPayPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/IDomesticPay.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/ICrossborderPay.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/CrossborderAliPayPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/DomesticAliPayPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/WeChatPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/CrossborderWeChatPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/CrossborderPaymentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/DomesticPaymentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/DomesticWeChatPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/AliPayPaymentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/WeChatPaymentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/AbstractPaymentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/ExectorThread.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/register/ContainerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/register/ContainerSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/com/tuaier/gupao/pattern/prototype/homework/Example.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/homework/Example.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/homework/CloneByJsonTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-15" />
+    <option name="width" value="1575" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:fastjson:1.2.66" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:fastjson:1.2.66" type="70bed36:NamedLibraryElementNode" />
+              <item name="fastjson-1.2.66.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:fastjson:1.2.66" type="70bed36:NamedLibraryElementNode" />
+              <item name="fastjson-1.2.66.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="fastjson" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../temp" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tuaier.gupao.pattern.factory.abstractFactoryTask" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kangfw.dp.test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CloneByJsonTest">
+    <configuration name="CloneByJsonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuaier.gupao.pattern.prototype.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuaier.gupao.pattern.singleton.register.ContainerSingletonTest" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuaier.gupao.pattern.singleton.register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kangfw.dp.test.Main" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kangfw.dp.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kangfw.dp.QTest" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kangfw.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuaier.gupao.pattern.factory.abstractFactoryTask.Test" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuaier.gupao.pattern.factory.abstractFactoryTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CloneByJsonTest" />
+        <item itemvalue="Application.ContainerSingletonTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.QTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99400279-0fa5-4e67-9392-1e978a66985c" name="Default Changelist" comment="" />
+      <created>1561804204284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561804204284</updated>
+      <workItem from="1561804205796" duration="803000" />
+      <workItem from="1563431132677" duration="673000" />
+      <workItem from="1566267661175" duration="6502000" />
+      <workItem from="1569217765767" duration="1359000" />
+      <workItem from="1582702232178" duration="1161000" />
+      <workItem from="1582703489136" duration="2055000" />
+      <workItem from="1582858372474" duration="9434000" />
+      <workItem from="1583117015335" duration="14000" />
+      <workItem from="1583133863760" duration="2662000" />
+    </task>
+    <task id="LOCAL-00001" summary="工厂模式练习">
+      <created>1582705124936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582705124936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="容器时单利线程安全问题">
+      <created>1582869010850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582869010850</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24663000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27345416" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34012875" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32939914" />
+      <window_info anchor="bottom" id="Statistic" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="right" id="aiXcoder" order="10" />
+      <window_info anchor="right" id="Word Book" order="11" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="工厂模式练习" />
+    <MESSAGE value="容器时单利线程安全问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="容器时单利线程安全问题" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>dogs.class</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kangfw/dp/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk1.8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractfactory/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractfactory/PythonCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kangfw/dp/QTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/TestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kangfw/dp/test/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kangfw/dp/test/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/ICrossborderPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tuaier/gupao/pattern/singleton/TestSonFactory.java" />
+    <entry file="uml://JAVA/com.tuaier.gupao.pattern.factory.abstractFactoryTask">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.tuaier.gupao.pattern.factory.abstractFactoryTask</OriginalElement>
+          <nodes>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.Test</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="90.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AbstractPaymentFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AbstractPaymentFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.WeChatPaymentFactory</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AliPayPaymentFactory</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.ICrossborderPay</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.DomesticWeChatPayment</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderWeChatPayment</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AbstractPaymentFactory</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderAliPayPayment</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.DomesticAliPayPayment</node>
+            <node x="" y="">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.IDomesticPay</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="248.0" y="210.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderAliPayPayment">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderAliPayPayment</OriginalElement>
+          <nodes>
+            <node x="175.66923076923058" y="220.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.WeChatPaymentFactory</node>
+            <node x="781.1692307692306" y="220.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AliPayPaymentFactory</node>
+            <node x="219.2499999999999" y="0.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.ICrossborderPay</node>
+            <node x="552.1153846153845" y="120.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.DomesticWeChatPayment</node>
+            <node x="0.0" y="120.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderWeChatPayment</node>
+            <node x="310.1153846153845" y="120.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AbstractPaymentFactory</node>
+            <node x="786.1153846153845" y="120.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderAliPayPayment</node>
+            <node x="1044.1153846153845" y="120.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.DomesticAliPayPayment</node>
+            <node x="601.7499999999999" y="0.0">com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.IDomesticPay</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AliPayPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.IDomesticPay">
+              <point x="82.39999999999998" y="-15.0" />
+              <point x="966.5692307692307" y="200.0" />
+              <point x="1268.6153846153845" y="200.0" />
+              <point x="1268.6153846153845" y="50.0" />
+              <point x="729.55" y="50.0" />
+              <point x="56.80000000000001" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.DomesticWeChatPayment" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.IDomesticPay">
+              <point x="0.0" y="-15.0" />
+              <point x="659.1153846153845" y="100.0" />
+              <point x="672.7499999999999" y="100.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.WeChatPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.ICrossborderPay">
+              <point x="-41.19999999999993" y="-15.0" />
+              <point x="237.46923076923065" y="200.0" />
+              <point x="248.4999999999999" y="200.0" />
+              <point x="248.4999999999999" y="70.0" />
+              <point x="269.04999999999984" y="70.0" />
+              <point x="-33.200000000000045" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AliPayPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.DomesticAliPayPayment">
+              <point x="41.19999999999999" y="-15.0" />
+              <point x="925.3692307692306" y="190.0" />
+              <point x="1151.1153846153845" y="190.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.WeChatPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderWeChatPayment">
+              <point x="-82.39999999999998" y="-15.0" />
+              <point x="196.2692307692306" y="200.0" />
+              <point x="119.0" y="200.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.WeChatPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AbstractPaymentFactory">
+              <point x="41.200000000000045" y="-15.0" />
+              <point x="319.8692307692306" y="190.0" />
+              <point x="365.6153846153845" y="190.0" />
+              <point x="-55.5" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.WeChatPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.DomesticWeChatPayment">
+              <point x="82.39999999999998" y="-15.0" />
+              <point x="361.06923076923056" y="200.0" />
+              <point x="659.1153846153845" y="200.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderAliPayPayment" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.ICrossborderPay">
+              <point x="0.0" y="-15.0" />
+              <point x="905.1153846153845" y="70.0" />
+              <point x="368.64999999999986" y="70.0" />
+              <point x="66.39999999999998" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.WeChatPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.IDomesticPay">
+              <point x="0.0" y="-15.0" />
+              <point x="278.6692307692306" y="200.0" />
+              <point x="299.6153846153845" y="200.0" />
+              <point x="299.6153846153845" y="90.0" />
+              <point x="615.9499999999999" y="90.0" />
+              <point x="-56.80000000000001" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AliPayPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.ICrossborderPay">
+              <point x="-82.39999999999998" y="-15.0" />
+              <point x="801.7692307692307" y="180.0" />
+              <point x="272.5653846153846" y="180.0" />
+              <point x="272.5653846153846" y="80.0" />
+              <point x="302.2499999999999" y="80.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AliPayPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AbstractPaymentFactory">
+              <point x="-41.19999999999999" y="-15.0" />
+              <point x="842.9692307692306" y="170.0" />
+              <point x="476.6153846153845" y="170.0" />
+              <point x="55.5" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.DomesticAliPayPayment" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.IDomesticPay">
+              <point x="0.0" y="-15.0" />
+              <point x="1151.1153846153845" y="60.0" />
+              <point x="701.1499999999999" y="60.0" />
+              <point x="28.399999999999977" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AbstractPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.ICrossborderPay">
+              <point x="-55.5" y="-15.0" />
+              <point x="365.6153846153845" y="80.0" />
+              <point x="335.44999999999993" y="80.0" />
+              <point x="33.200000000000045" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AliPayPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderAliPayPayment">
+              <point x="0.0" y="-15.0" />
+              <point x="884.1692307692306" y="200.0" />
+              <point x="905.1153846153845" y="200.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.factory.AbstractPaymentFactory" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.IDomesticPay">
+              <point x="55.5" y="-15.0" />
+              <point x="476.6153846153845" y="100.0" />
+              <point x="644.3499999999999" y="100.0" />
+              <point x="-28.400000000000006" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.CrossborderWeChatPayment" target="com.tuaier.gupao.pattern.factory.abstractFactoryTask.pay.ICrossborderPay">
+              <point x="0.0" y="-15.0" />
+              <point x="119.0" y="100.0" />
+              <point x="235.8499999999999" y="100.0" />
+              <point x="-66.39999999999998" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="600.0" y="364.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/WeChatPaymentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/CrossborderAliPayPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/CrossborderWeChatPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/IDomesticPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/DomesticWeChatPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/pay/DomesticAliPayPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/AliPayPaymentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/factory/abstractFactoryTask/factory/AbstractPaymentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/lazy/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/register/EnumSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/lazy/LazyInnerClassSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/lazy/LazyInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/ExectorThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/register/TestVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/register/EnumSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/register/ContainerSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/register/ContainerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/work/StatementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/simple/ConcretePrototypeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/simple/Prototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/simple/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/simple/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/deep/DeepCloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/deep/JinGuBang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/deep/Monkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/deep/QiTianDaSheng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/work/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/work/StatementReimburseDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/threadlocal/ThreadLocalSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/singleton/singleton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.66/fastjson-1.2.66.jar!/com/alibaba/fastjson/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.66/fastjson-1.2.66.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="356" column="9" selection-start-line="356" selection-start-column="9" selection-end-line="356" selection-end-column="9" />
+          <folding>
+            <element signature="e#15505#15506#0" expanded="true" />
+            <element signature="e#15552#15553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest</OriginalElement>
+          <nodes>
+            <node x="44.0" y="0.0">com.alibaba.fastjson.JSON</node>
+            <node x="1.0" y="186.0">com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest</node>
+            <node x="32.0" y="80.0">com.tuaier.gupao.pattern.prototype.homework.Example</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest" target="com.tuaier.gupao.pattern.prototype.homework.Example">
+              <point x="41.5" y="-15.0" />
+              <point x="124.5" y="135.0" />
+              <point x="108.5" y="135.0" />
+              <point x="25.5" y="15.0" />
+            </edge>
+            <edge source="com.tuaier.gupao.pattern.prototype.homework.Example" target="com.alibaba.fastjson.JSON">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-358.5" y="6.0" />
+          <SelectedNodes>
+            <node>com.tuaier.gupao.pattern.prototype.homework.CloneByJsonTest</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/homework/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="52" column="32" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="52" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk1.8/jre/lib/rt.jar!/java/text/CalendarBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#3738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tuaier/gupao/pattern/prototype/homework/CloneByJsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
